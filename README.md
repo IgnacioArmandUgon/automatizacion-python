@@ -2,6 +2,12 @@
 
 Este repositorio contiene material del curso de automatización con Python.
 
+## Requisitos
+
+## Python
+
+Validar: python --version
+
 ## Como levantar
 
 ### Crear entorno virtual:
