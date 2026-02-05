@@ -21,3 +21,16 @@ python -m venv venv
 ```
 venv\Scripts\activate
 ```
+
+### Instalar
+
+```
+pip install watchdog
+pip install pyinstaller
+```
+
+### Crear ejecutable de ordenar archivo
+
+```
+pyinstaller --noconsole --onefile ordenar_archivos
+```

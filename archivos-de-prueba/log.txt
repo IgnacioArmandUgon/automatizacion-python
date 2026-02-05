@@ -29,3 +29,15 @@
 01/02/2026 14:04 - Usuario: Ignacio Armand-ugón - Movido file.pdf a G:/automatizacion-python/archivos-de-prueba/PDFs/file.pdf
 01/02/2026 14:04 - Usuario: Ignacio Armand-ugón - Movido file.png a G:/automatizacion-python/archivos-de-prueba/Imagenes/file.png
 01/02/2026 14:04 - Usuario: Ignacio Armand-ugón - Movido file.txt a G:/automatizacion-python/archivos-de-prueba/Textos/file.txt
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.jpg a C:/automatizacion-python/archivos-de-prueba/Imagenes/JPG/file.jpg
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.mp3 a C:/automatizacion-python/archivos-de-prueba/Audios/file.mp3
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.mp4 a C:/automatizacion-python/archivos-de-prueba/Videos/file.mp4
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.pdf a C:/automatizacion-python/archivos-de-prueba/PDFs/file.pdf
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.png a C:/automatizacion-python/archivos-de-prueba/Imagenes/PNG/file.png
+03/02/2026 20:50 - Usuario: Ignacio.armandugon - Movido file.txt a C:/automatizacion-python/archivos-de-prueba/Textos/file.txt
+03/02/2026 20:58 - Usuario: Ignacio.armandugon - Movido ervT3ORS7ZVNmDNp8ZyVoA1RMiE2.jpg a C:/automatizacion-python/archivos-de-prueba/Imagenes/JPG/ervT3ORS7ZVNmDNp8ZyVoA1RMiE2.jpg
+03/02/2026 20:59 - Usuario: Ignacio.armandugon - Movido file-example_PDF_1MB.pdf a C:/automatizacion-python/archivos-de-prueba/PDFs/file-example_PDF_1MB.pdf
+03/02/2026 20:59 - Usuario: Ignacio.armandugon - Movido Respuestas Genrales - Corficolombiana - copia.pdf a C:/automatizacion-python/archivos-de-prueba/PDFs/Respuestas Genrales - Corficolombiana - copia.pdf
+03/02/2026 21:54 - Usuario: Ignacio.armandugon - Movido CV_Jose_Andres_Jimenez_Vargas_2025-12-22.pdf a C:/automatizacion-python/archivos-de-prueba/PDFs/CV_Jose_Andres_Jimenez_Vargas_2025-12-22.pdf
+03/02/2026 21:54 - Usuario: Ignacio.armandugon - Movido Nuevo Documento de texto.txt a C:/automatizacion-python/archivos-de-prueba/Textos/Nuevo Documento de texto.txt
+03/02/2026 21:54 - Usuario: Ignacio.armandugon - Movido prueba atlas imagen 2.png a C:/automatizacion-python/archivos-de-prueba/Imagenes/PNG/prueba atlas imagen 2.png
