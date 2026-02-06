@@ -1,0 +1,7 @@
+rename "image_001.jpg" "1eyyyyyy.jpg"
+rename "image_002.jpg" "er1er11y.jpg"
+rename "image_003.png" "image_001.png"
+rename "image_004.jpg" "image_004.jpg"
+rename "image_005.jpg" "image_006.jpg"
+rename "image_006.jpg" "image_007.jpg"
+rename "image_007.jpg" "t1e1.jpg"
