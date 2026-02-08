@@ -40,8 +40,7 @@ def wait_until_free(path, retries=10, delay=0.5):
             time.sleep(delay)
     return False
 
-def orderFiles():
-    
+def orderFiles(): 
     for file in os.listdir(ruta):        
         for tipo in ext_per_filetype:            
             _,ext = os.path.splitext(file)
@@ -73,8 +72,6 @@ class EventHandler(FileSystemEventHandler):
         
         print(f"Archivo detectado: {event.src_path}")
         orderFiles()        
-
-
 
 
 orderFiles()        
